@@ -129,7 +129,7 @@ function getDECfromQuests(player, startDate, endDate) {
                 }
 
                 questsTotal += sum;
-                $('div#quests_total').text('Quests total: ' + (Math.round(questsTotal * 1000) / 1000));
+                $('div#quests_total').text('Rewards total: ' + (Math.round(questsTotal * 1000) / 1000));
 
                 $('#quests_table').append( '<tr>' +
                     '<td>' + moment(createdDate).format(format)  + '</td>' +
