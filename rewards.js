@@ -13,10 +13,14 @@ function getDEC() {
     $('#tournaments_table').empty();
     $('#battles_table').empty();
     $('#rewards_table').empty();
-
-    $('div#tournaments_total').text('Tournaments total: 0');
-    $('div#battles_total').text('Battles total: 0');
-    $('div#rewards_total').text('Quests total: 0');
+    
+    $('span#tournaments_total').text('');
+    $('span#battles_total').text('');
+    $('span#cards_total').text('');
+    $('span#dec_total').text('');
+    $('span#alchemy_potions_total').text('');
+    $('span#legendary_potions_total').text('');
+    $('span#orbs_total').text('');
 
     let player = $('#player').val();
     let startDate = moment($('#start_date').val(), format).toDate();
