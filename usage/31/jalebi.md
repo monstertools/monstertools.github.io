@@ -5,7 +5,6 @@ Season|31
 Battles|215
 Wins|118
 Loses|97
-Win rate|1.22
 DEC|1935
 
 ---

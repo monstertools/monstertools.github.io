@@ -5,7 +5,6 @@ Season|30
 Battles|956
 Wins|517
 Loses|439
-Win rate|1.18
 DEC|1911
 
 ---

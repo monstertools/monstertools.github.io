@@ -5,7 +5,6 @@ Season|32
 Battles|77
 Wins|53
 Loses|24
-Win rate|2.21
 DEC|1989
 
 ---

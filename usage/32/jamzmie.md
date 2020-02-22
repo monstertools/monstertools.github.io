@@ -5,7 +5,6 @@ Season|32
 Battles|80
 Wins|62
 Loses|18
-Win rate|3.44
 DEC|1992
 
 ---

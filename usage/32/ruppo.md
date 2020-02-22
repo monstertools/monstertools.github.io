@@ -5,7 +5,6 @@ Season|32
 Battles|119
 Wins|90
 Loses|29
-Win rate|3.10
 DEC|1947
 
 ---

@@ -5,7 +5,6 @@ Season|30
 Battles|328
 Wins|138
 Loses|190
-Win rate|0.73
 DEC|1907
 
 ---

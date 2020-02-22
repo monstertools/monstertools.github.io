@@ -5,7 +5,6 @@ Season|30
 Battles|348
 Wins|190
 Loses|158
-Win rate|1.20
 DEC|1900
 
 ---

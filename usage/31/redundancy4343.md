@@ -5,7 +5,6 @@ Season|31
 Battles|177
 Wins|93
 Loses|84
-Win rate|1.11
 DEC|1955
 
 ---

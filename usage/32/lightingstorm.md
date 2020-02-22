@@ -5,7 +5,6 @@ Season|32
 Battles|361
 Wins|155
 Loses|206
-Win rate|0.75
 DEC|1958
 
 ---

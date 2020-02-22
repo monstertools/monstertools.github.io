@@ -5,7 +5,6 @@ Season|31
 Battles|550
 Wins|307
 Loses|243
-Win rate|1.26
 DEC|1952
 
 ---

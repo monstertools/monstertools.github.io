@@ -5,7 +5,6 @@ Season|30
 Battles|421
 Wins|206
 Loses|215
-Win rate|0.96
 DEC|1991
 
 ---

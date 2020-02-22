@@ -5,7 +5,6 @@ Season|30
 Battles|281
 Wins|152
 Loses|129
-Win rate|1.18
 DEC|1898
 
 ---

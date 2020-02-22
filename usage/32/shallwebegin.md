@@ -5,7 +5,6 @@ Season|32
 Battles|512
 Wins|277
 Loses|235
-Win rate|1.18
 DEC|1930
 
 ---

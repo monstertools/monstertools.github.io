@@ -5,7 +5,6 @@ Season|32
 Battles|735
 Wins|396
 Loses|339
-Win rate|1.17
 DEC|1940
 
 ---

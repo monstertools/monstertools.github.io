@@ -5,7 +5,6 @@ Season|30
 Battles|270
 Wins|162
 Loses|108
-Win rate|1.50
 DEC|1976
 
 ---

@@ -5,7 +5,6 @@ Season|30
 Battles|146
 Wins|76
 Loses|70
-Win rate|1.09
 DEC|1973
 
 ---

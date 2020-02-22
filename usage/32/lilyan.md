@@ -5,7 +5,6 @@ Season|32
 Battles|1519
 Wins|625
 Loses|894
-Win rate|0.70
 DEC|1931
 
 ---

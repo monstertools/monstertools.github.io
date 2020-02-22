@@ -5,7 +5,6 @@ Season|32
 Battles|115
 Wins|69
 Loses|46
-Win rate|1.50
 DEC|1924
 
 ---

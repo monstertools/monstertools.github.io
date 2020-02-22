@@ -5,7 +5,6 @@ Season|31
 Battles|65
 Wins|45
 Loses|20
-Win rate|2.25
 DEC|1990
 
 ---

@@ -5,7 +5,6 @@ Season|31
 Battles|710
 Wins|314
 Loses|396
-Win rate|0.79
 DEC|1925
 
 ---

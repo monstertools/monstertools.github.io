@@ -5,7 +5,6 @@ Season|31
 Battles|359
 Wins|168
 Loses|191
-Win rate|0.88
 DEC|1979
 
 ---

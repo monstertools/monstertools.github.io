@@ -5,7 +5,6 @@ Season|32
 Battles|209
 Wins|121
 Loses|88
-Win rate|1.38
 DEC|1981
 
 ---

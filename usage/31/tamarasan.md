@@ -5,7 +5,6 @@ Season|31
 Battles|331
 Wins|157
 Loses|174
-Win rate|0.90
 DEC|1998
 
 ---

@@ -5,7 +5,6 @@ Season|32
 Battles|303
 Wins|140
 Loses|163
-Win rate|0.86
 DEC|1980
 
 ---

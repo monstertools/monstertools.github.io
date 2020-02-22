@@ -5,7 +5,6 @@ Season|32
 Battles|179
 Wins|105
 Loses|74
-Win rate|1.42
 DEC|1956
 
 ---

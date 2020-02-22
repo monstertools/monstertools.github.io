@@ -5,7 +5,6 @@ Season|32
 Battles|377
 Wins|167
 Loses|210
-Win rate|0.80
 DEC|1942
 
 ---

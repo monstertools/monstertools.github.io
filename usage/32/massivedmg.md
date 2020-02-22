@@ -5,7 +5,6 @@ Season|32
 Battles|102
 Wins|68
 Loses|34
-Win rate|2.00
 DEC|1934
 
 ---

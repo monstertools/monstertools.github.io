@@ -5,7 +5,6 @@ Season|32
 Battles|152
 Wins|91
 Loses|61
-Win rate|1.49
 DEC|1928
 
 ---

@@ -5,7 +5,6 @@ Season|32
 Battles|389
 Wins|224
 Loses|165
-Win rate|1.36
 DEC|1993
 
 ---

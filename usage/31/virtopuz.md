@@ -5,7 +5,6 @@ Season|31
 Battles|403
 Wins|187
 Loses|216
-Win rate|0.87
 DEC|2007
 
 ---

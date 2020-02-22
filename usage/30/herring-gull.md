@@ -5,7 +5,6 @@ Season|30
 Battles|386
 Wins|194
 Loses|192
-Win rate|1.01
 DEC|1968
 
 ---

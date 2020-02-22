@@ -5,7 +5,6 @@ Season|31
 Battles|488
 Wins|216
 Loses|272
-Win rate|0.79
 DEC|1913
 
 ---

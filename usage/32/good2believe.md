@@ -5,7 +5,6 @@ Season|32
 Battles|79
 Wins|60
 Loses|19
-Win rate|3.16
 DEC|1912
 
 ---

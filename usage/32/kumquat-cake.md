@@ -5,7 +5,6 @@ Season|32
 Battles|491
 Wins|212
 Loses|279
-Win rate|0.76
 DEC|3044
 
 ---

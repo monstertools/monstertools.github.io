@@ -5,7 +5,6 @@ Season|31
 Battles|507
 Wins|231
 Loses|276
-Win rate|0.84
 DEC|1994
 
 ---

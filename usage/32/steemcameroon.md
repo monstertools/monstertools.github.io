@@ -5,7 +5,6 @@ Season|32
 Battles|93
 Wins|70
 Loses|23
-Win rate|3.04
 DEC|1922
 
 ---

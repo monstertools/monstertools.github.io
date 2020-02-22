@@ -5,7 +5,6 @@ Season|31
 Battles|572
 Wins|247
 Loses|325
-Win rate|0.76
 DEC|1872
 
 ---

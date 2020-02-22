@@ -5,7 +5,6 @@ Season|31
 Battles|304
 Wins|152
 Loses|152
-Win rate|1.00
 DEC|1977
 
 ---

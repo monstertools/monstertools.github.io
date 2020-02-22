@@ -5,7 +5,6 @@ Season|30
 Battles|232
 Wins|117
 Loses|115
-Win rate|1.02
 DEC|1921
 
 ---

@@ -5,7 +5,6 @@ Season|32
 Battles|596
 Wins|344
 Loses|252
-Win rate|1.37
 DEC|1997
 
 ---

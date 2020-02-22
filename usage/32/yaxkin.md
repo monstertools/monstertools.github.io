@@ -5,7 +5,6 @@ Season|32
 Battles|389
 Wins|161
 Loses|228
-Win rate|0.71
 DEC|1986
 
 ---

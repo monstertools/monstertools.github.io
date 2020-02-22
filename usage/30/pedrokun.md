@@ -5,7 +5,6 @@ Season|30
 Battles|319
 Wins|156
 Loses|163
-Win rate|0.96
 DEC|1959
 
 ---

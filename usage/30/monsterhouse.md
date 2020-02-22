@@ -5,7 +5,6 @@ Season|30
 Battles|398
 Wins|176
 Loses|222
-Win rate|0.79
 DEC|1954
 
 ---

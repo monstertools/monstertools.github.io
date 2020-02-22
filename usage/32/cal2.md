@@ -5,7 +5,6 @@ Season|32
 Battles|92
 Wins|83
 Loses|9
-Win rate|9.22
 DEC|1893
 
 ---

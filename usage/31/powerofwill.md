@@ -5,7 +5,6 @@ Season|31
 Battles|291
 Wins|135
 Loses|156
-Win rate|0.87
 DEC|1963
 
 ---

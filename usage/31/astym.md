@@ -5,7 +5,6 @@ Season|31
 Battles|406
 Wins|181
 Loses|225
-Win rate|0.80
 DEC|1985
 
 ---
