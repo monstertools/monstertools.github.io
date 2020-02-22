@@ -85,4 +85,4 @@ Usage%|Summoner|Wins|Loses|Win rate|DEC|
 6.25%|Tyrus Paladium|1|0|100.00%|42|
 6.25%|Lyanna Natura|1|0|100.00%|44|
 6.25%|Alric Stormbringer|0|1|0.00%|0|
-6.25%|Daria Dragonscale|0|1|0.00%|0|
+6.25%|Daria Dragonscale|0|1|0.00%|1|
