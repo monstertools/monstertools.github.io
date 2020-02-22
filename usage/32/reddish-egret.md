@@ -2,48 +2,62 @@
 |-|-
 Player|reddish-egret
 Season|32
-Battles|9
-Wins|7
-Loses|2
-Win rate|3.50
-DEC|16
+Battles|725
+Wins|416
+Loses|309
+Win rate|1.35
+DEC|2169
 
 ---
 **MONSTERS**
 
 Usage%|Monster|Wins|Loses|Win rate|DEC|
 -|-|-|-|-|-|
-66.67%|Sea Monster|5|1|83.33%|11|
-55.56%|Crustacean King|4|1|80.00%|9|
-44.44%|Furious Chicken|2|2|50.00%|4|
-33.33%|Manticore|3|0|100.00%|6|
-33.33%|Pirate Archer|3|0|100.00%|6|
-33.33%|Water Elemental|2|1|66.67%|4|
-33.33%|Highland Archer|2|1|66.67%|4|
-22.22%|Elven Cutthroat|1|1|50.00%|2|
-11.11%|Prismatic Energy|1|0|100.00%|2|
-11.11%|Ruler of the Seas|1|0|100.00%|2|
-11.11%|Fire Spitter|1|0|100.00%|2|
-11.11%|Sabre Shark|1|0|100.00%|2|
-11.11%|Creeping Ooze|1|0|100.00%|2|
-11.11%|Cocatrice|1|0|100.00%|2|
-11.11%|Haunted Spirit|1|0|100.00%|1|
-11.11%|Undead Priest|1|0|100.00%|1|
-11.11%|Haunted Spider|1|0|100.00%|1|
-11.11%|Centaur|1|0|100.00%|1|
-11.11%|Twisted Jester|1|0|100.00%|1|
-11.11%|Cyclops|1|0|100.00%|1|
-11.11%|Medusa|0|1|0.00%|0|
-11.11%|Goblin Mech|0|1|0.00%|0|
-11.11%|Giant Roc|0|1|0.00%|0|
-11.11%|Kobold Miner|0|1|0.00%|0|
+57.52%|Furious Chicken|260|157|62.35%|1384|
+37.66%|Sea Monster|211|62|77.29%|1089|
+34.07%|Creeping Ooze|133|114|53.85%|719|
+33.38%|Haunted Spirit|114|128|47.11%|591|
+32.41%|Twisted Jester|109|126|46.38%|562|
+28.41%|Centaur|94|112|45.63%|476|
+24.69%|Haunted Spider|82|97|45.81%|413|
+24.41%|Manticore|148|29|83.62%|695|
+23.86%|Crustacean King|135|38|78.03%|699|
+22.76%|Pirate Archer|127|38|76.97%|649|
+21.38%|Elven Cutthroat|69|86|44.52%|341|
+18.90%|Undead Priest|59|78|43.07%|302|
+15.31%|Highland Archer|61|50|54.95%|268|
+14.07%|Feral Spirit|37|65|36.27%|176|
+13.24%|Silvershield Knight|37|59|38.54%|176|
+11.31%|Silvershield Paladin|28|54|34.15%|128|
+9.52%|Water Elemental|45|24|65.22%|277|
+9.38%|Goblin Mech|29|39|42.65%|194|
+8.69%|Kobold Miner|27|36|42.86%|164|
+8.55%|Cyclops|30|32|48.39%|142|
+7.45%|Divine Healer|19|35|35.19%|88|
+6.62%|Giant Roc|20|28|41.67%|126|
+5.38%|Peacebringer|12|27|30.77%|65|
+3.72%|Medusa|13|14|48.15%|109|
+3.17%|Enchanted Pixie|9|14|39.13%|52|
+3.03%|Pirate Captain|14|8|63.64%|62|
+2.07%|Spineback Turtle|10|5|66.67%|44|
+1.79%|Sabre Shark|10|3|76.92%|45|
+1.52%|Ruler of the Seas|9|2|81.82%|43|
+1.38%|Cocatrice|10|0|100.00%|47|
+1.24%|Prismatic Energy|8|1|88.89%|44|
+1.24%|Peaceful Giant|3|6|33.33%|11|
+1.10%|Serpentine Mystic|3|5|37.50%|11|
+0.97%|Skeleton Assassin|5|2|71.43%|29|
+0.69%|Fire Spitter|4|1|80.00%|16|
+0.55%|Frozen Soldier|4|0|100.00%|16|
+0.41%|Cerberus|3|0|100.00%|12|
 
 ---
 **SUMMONERS**
 
 Usage%|Summoner|Wins|Loses|Win rate|DEC|
 -|-|-|-|-|-|
-66.67%|Daria Dragonscale|6|0|100.00%|13|
-11.11%|Zintar Mortalis|1|0|100.00%|1|
-11.11%|Alric Stormbringer|0|1|0.00%|0|
-11.11%|Malric Inferno|0|1|0.00%|0|
+36.41%|Daria Dragonscale|211|53|79.92%|1032|
+33.38%|Zintar Mortalis|114|128|47.11%|591|
+15.03%|Tyrus Paladium|39|70|35.78%|187|
+9.79%|Malric Inferno|32|39|45.07%|206|
+5.38%|Alric Stormbringer|20|19|51.28%|150|
