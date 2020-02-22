@@ -9,8 +9,8 @@ Win rate|0.75
 DEC|2060
 ---
 **MONSTERS**
-Usage%|Monster|Wins|Loses|Win rate|DEC|
--|-|-|-|-|-|
+|Usage%|Monster|Wins|Loses|Win rate|DEC|
+|-|-|-|-|-|-|
 68.79%|Furious Chicken|180|219|45.11%|1460|
 63.62%|Goblin Mech|155|214|42.01%|1267|
 35.17%|Kobold Miner|80|124|39.22%|649|
@@ -86,8 +86,8 @@ Usage%|Monster|Wins|Loses|Win rate|DEC|
 0.17%|Silvershield Knight|0|1|0.00%|0|
 ---
 **SUMMONERS**
-Usage%|Summoner|Wins|Loses|Win rate|DEC|
--|-|-|-|-|-|
+|Usage%|Summoner|Wins|Loses|Win rate|DEC|
+|-|-|-|-|-|-|
 38.28%|Malric Inferno|87|135|39.19%|707|
 29.66%|Daria Dragonscale|82|90|47.67%|707|
 10.17%|Zintar Mortalis|24|35|40.68%|214|
