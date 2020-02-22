@@ -14,4 +14,4 @@ All players included, seasons available: 29-32.
 
 - [Steem](https://steemit.com/@jacekw)
 
-- [discord](@jacekw#2679)
+- discord: @jacekw#2679
