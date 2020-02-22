@@ -1,5 +1,5 @@
 .|.
--|-
+|-|-
 Player|aagabriel
 Season|32
 Battles|236
@@ -7,10 +7,12 @@ Wins|121
 Loses|115
 Win rate|1.05
 DEC|4095
+
 ---
 **MONSTERS**
+
 Usage%|Monster|Wins|Loses|Win rate|DEC|
--|-|-|-|-|-|
+|-|-|-|-|-|-|
 36.02%|**Horny Toad**|43|42|**50.59%**|1381|
 32.20%|Furious Chicken|36|40|47.37%|1261|
 21.19%|Creeping Ooze|25|25|50.00%|857|
@@ -97,10 +99,12 @@ Usage%|Monster|Wins|Loses|Win rate|DEC|
 0.42%|Minotaur Warrior|0|1|0.00%|0|
 0.42%|Enchanted Pixie|0|1|0.00%|0|
 0.42%|**Herbalist**|0|1|**0.00%**|0|
+
 ---
 **SUMMONERS**
+
 Usage%|Summoner|Wins|Loses|Win rate|DEC|
--|-|-|-|-|-|
+|-|-|-|-|-|-|
 26.27%|**Bortus**|29|33|**46.77%**|975|
 24.15%|**Pyre**|33|24|**57.89%**|1075|
 22.03%|**Wizard of Eastwood**|28|24|**53.85%**|939|
