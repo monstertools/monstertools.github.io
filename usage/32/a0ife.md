@@ -1,3 +1,5 @@
+<a href="https://monstertools.github.io/usage/32/">Back</a>
+
 |.|.|
 |-|-|
 |Player|a0ife|
@@ -11,6 +13,7 @@
 ---
 
 **MONSTERS**
+
 |Usage%|Monster|Wins|Loses|Win rate|DEC|
 |-|-|-|-|-|-|
 |68.79%|Furious Chicken|180|219|45.11%|1460|
@@ -90,6 +93,7 @@
 ---
 
 **SUMMONERS**
+
 |Usage%|Summoner|Wins|Loses|Win rate|DEC|
 |-|-|-|-|-|-|
 |38.28%|Malric Inferno|87|135|39.19%|707|
