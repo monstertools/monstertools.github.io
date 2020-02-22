@@ -1,5 +1,3 @@
-<a href="https://monstertools.github.io/usage/32">Back</a>
-
 |.|.|
 |-|-|
 |Player|a0ife|
